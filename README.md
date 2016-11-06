@@ -1,8 +1,5 @@
 # TheLegendOfEdgarPortable
 
-## Todo
-- Compare against released package to ensure all data is up to date
-
 
 ## Build Process
 1. After installing [The Legend of Edgar](https://github.com/riksweeney/edgar/releases), copy the files into the `App/Edgar/` folder
